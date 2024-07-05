@@ -204,11 +204,6 @@ border-color:var(--main-color);
  padding-bottom:20px;
  color:red;
 }
-/* .professional-box .profession:nth-child(3) {
-    right:10px;
-    /* padding-bottom:20px; */
-    color:yellowgreen;
-} */
 .professional-box .profession:nth-child(4) {
     padding-bottom:20px;
     color:yellowgreen;
